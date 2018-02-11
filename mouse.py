@@ -22,3 +22,4 @@ class Pointer(object):#it runs constructer function first
 		x=self.x
 		y=self.y
 		print("{} ,{}".format(x,y))
+#Adding a cooment to check the git history
